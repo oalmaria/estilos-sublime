@@ -1,0 +1,10 @@
+
+*{
+	front-family:verdana;
+}
+h1,h2,h3,h4,h5,p{
+color: greenyellow;
+}
+div p.micolor{color:blueviolet;} 
+p.fondo{background: pink;}
+h2.fondo, p.fondo{font-size: 30px;}
